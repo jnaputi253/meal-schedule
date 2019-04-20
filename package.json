@@ -1,0 +1,7 @@
+{
+  "name": "meal-schedule",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jnaputi253/meal-schedule.git",
+  "license": "MIT"
+}
